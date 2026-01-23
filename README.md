@@ -2,7 +2,7 @@ Heartbeat – Real-Time AI-Based Emotion Synchronizer.
 
 📌 Project Overview:
 
-Heartbeat is a real-time AI-based emotion synchronizer that transforms normal chat messages into shared emotional experiences. 
+Heartbeat is a real-time AI-based emotion synchronizer that transforms normal messages into shared emotional experiences. 
 “Messages can say words… but can they carry emotions?”
 
 In most messaging apps, emotions are expressed only through words or emojis, which often leads to misunderstandings or emotional distance.
